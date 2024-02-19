@@ -106,11 +106,16 @@
 ###
 
 ###
-# 📊 GitHub Stats:
+
+<h1 align="center">📊 GitHub Stats :-</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishikesh-revandikar&theme=radical&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-revandikar&theme=radical&hide_border=false" height="150" alt="contribution graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh-revandikar&theme=radical&show_icons=true&hide_border=false&layout=compact"  />
+</div>
+
+<div align="center">
+  <img height="1.2" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 </div>
 
 ###
