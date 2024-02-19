@@ -1,3 +1,11 @@
+<div align="center">
+  <img height="200" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
+</div>
+
+###
+
+
+
 # 💫 About Me:
 Hello!👋 I am Rishikesh Revandikar<br>I'm an engineering student at Pune Institute of Computer<br>Technology, specializing in Information Technology. Proficient in C++,<br>Python, SQL. I'm currently expanding my skills in Web Development and<br>Machine Learning & Data Science. Passionate about ML & Data Science.<br>Expected to graduate in 2025.<br>Let's collaborate and build something remarkable together! 🚀
 
