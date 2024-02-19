@@ -21,11 +21,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1&color=3EF0FA&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=A+Web+Developer;UI%2FUX+Designer;ML+Enthusiast" alt="Typing SVG" /></a>
 </p>
 ###
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=940CD1&center=true&vCenter=trueV&random=false&width=435&lines=Hi+There+%F0%9F%91%8B" alt="Typing SVG" /></a></a></p>
 
-
-
-# 💫 About Me:
-Hello!👋 I am Rishikesh Revandikar<br>I'm an engineering student at Pune Institute of Computer<br>Technology, specializing in Information Technology. Proficient in C++,<br>Python, SQL. I'm currently expanding my skills in Web Development and<br>Machine Learning & Data Science. Passionate about ML & Data Science.<br>Expected to graduate in 2025.<br>Let's collaborate and build something remarkable together! 🚀
 
 
 <h1 align="center">Connect with me at :-</h1>
