@@ -13,7 +13,7 @@
 
 ###
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7DC05&background=C42AFF&center=true&vCenter=true&repeat=false&random=false&width=435&lines=I+am+Rishikesh+Revandikar" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=DD2DFA&background=FFE515&center=true&vCenter=true&repeat=false&random=false&width=435&lines=I+am+Rishikesh+Revandikar" alt="Typing SVG" /></a>
 </p>
 
 ###
