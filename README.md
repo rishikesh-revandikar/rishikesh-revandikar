@@ -124,7 +124,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=rishikesh-revandikar&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<div>
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rishikesh-revandikar&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
