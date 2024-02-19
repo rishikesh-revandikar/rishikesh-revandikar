@@ -28,7 +28,7 @@
 Hello!👋 I am Rishikesh Revandikar<br>I'm an engineering student at Pune Institute of Computer<br>Technology, specializing in Information Technology. Proficient in C++,<br>Python, SQL. I'm currently expanding my skills in Web Development and<br>Machine Learning & Data Science. Passionate about ML & Data Science.<br>Expected to graduate in 2025.<br>Let's collaborate and build something remarkable together! 🚀
 
 
-## 🌐 Socials:
+<h1 align="center">Connect with me at :-</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/rishikesh-revandikar-55915922a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
