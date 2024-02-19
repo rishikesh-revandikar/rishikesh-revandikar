@@ -107,9 +107,13 @@
 
 ###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rishikesh-revandikar&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-revandikar&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh-revandikar&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishikesh-revandikar&theme=radical&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-revandikar&theme=radical&hide_border=false" height="150" alt="contribution graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh-revandikar&theme=radical&show_icons=true&hide_border=false&layout=compact"  />
+</div>
+
+###
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rishikesh-revandikar&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
