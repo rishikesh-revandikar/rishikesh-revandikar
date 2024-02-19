@@ -121,7 +121,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rishikesh-revandikar.rishikesh-revandikar&left_color=aquamarine&right_color=aquamarine"  />
+  <img src="https://profile-counter.glitch.me/rishikesh-revandikar/count.svg?"  />
 </div>
 
 ###
