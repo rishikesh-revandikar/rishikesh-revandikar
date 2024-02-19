@@ -3,6 +3,9 @@
 </div>
 
 ###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=D7C0F7&center=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+###
 
 
 
