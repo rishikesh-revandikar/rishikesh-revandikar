@@ -64,6 +64,8 @@
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="20" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="javascript logo"  />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="40" alt="react logo"  />
